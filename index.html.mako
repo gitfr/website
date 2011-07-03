@@ -8,7 +8,7 @@ L'objectif du projet `#gitfr` est la promotion du bien et la
 destruction du mal (mais si, vous savez bien, SVN, CVS...).
 </p>
 <p>
-Le contenu est pour l'instant, principalement sur le  <a href="${bf.config.util.site_path_helper(bf.config.blog.path)}">blog</a>.
+Le contenu est pour l'instant, uniquement sur le <a href="${bf.config.util.site_path_helper(bf.config.blog.path)}">blog</a>.
 </p>
 <p>
 Je fais des ateliers et conférences (gratuits) en français, n'hésitez pas
