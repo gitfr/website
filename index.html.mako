@@ -1,13 +1,16 @@
 <%inherit file="_templates/site.mako" />
 <p>
- This is the index page.
+  Bienvenu(e) sur le site #gitfr, modeste site francophone sur Git.
 </p>
 
-Here's the main <a href="${bf.util.site_path_helper(bf.config.blog.path)}">chronological blog page</a><br/><br/>
-
-Here's the last 5 posts:
-<ul>
-% for post in bf.config.blog.posts[:5]:
-    <li><a href="${post.path}">${post.title}</a></li>
-% endfor
-</ul>
+<p>
+L'objectif du projet `#gitfr` est la promotion du bien et la
+destruction du mal (mais si, vous savez bien, SVN, CVS...).
+</p>
+<p>
+Le contenu est pour l'instant, principalement sur le  <a href="${bf.config.util.site_path_helper(bf.config.blog.path)}">blog</a>.
+</p>
+<p>
+Je fais des ateliers et conférences (gratuits) en français, n'hésitez pas
+à me contacter si cela vous intéresse.
+</p>
