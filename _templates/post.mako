@@ -2,7 +2,7 @@
 <div class="blog_post">
   <a name="${post.slug}"></a>
   <h2 class="blog_post_title"><a href="${post.permapath()}" rel="bookmark" title="Permanent Link to ${post.title}">${post.title}</a></h2>
-  <small>${post.date.strftime("%B %d, %Y at %I:%M %p")} | categories: 
+  <p class="related"><strong>${post.date.strftime("%d/%m/%Y %I:%M %p")}</strong> | categories: 
 <% 
    category_links = []
    for category in post.categories:
@@ -14,9 +14,9 @@
 %>
 ${", ".join(category_links)}
 % if bf.config.blog.disqus.enabled:
- | <a href="${post.permalink}#disqus_thread">View Comments</a>
+ | <a href="${post.permalink}#disqus_thread">Commentaires</a>
 % endif
-</small><p/>
+<p/>
   <div class="post_prose">
     ${self.post_prose(post)}
   </div>

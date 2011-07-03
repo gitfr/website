@@ -1,12 +1,12 @@
 <p id="credits">
-Powered by <a href="http://www.blogofile.com">Blogofile</a>.<br/>
+Flux RSS des <a href="${bf.util.site_path_helper(bf.config.blog.path,'feed')}">billets</a>
 <br/>
-RSS feeds for <a href="${bf.util.site_path_helper(bf.config.blog.path,'feed')}">Entries</a>
 % if bf.config.blog.disqus.enabled:
- and <a
-href="http://${bf.config.blog.disqus.name}.disqus.com/latest.rss">Comments</a>.
+ et <a
+href="http://${bf.config.blog.disqus.name}.disqus.com/latest.rss">ccmmentaires</a>.
 % endif
-<br>
+Propulsé par <a href="http://www.blogofile.com">Blogofile</a>.
+<br/>
 </p>
 % if bf.config.blog.disqus.enabled:
 <script type="text/javascript">
