@@ -24,7 +24,7 @@
   <div id="on_twitter">
     <h3>Sur Twitter</h2>
     <div id="blogofile_tweets"></div>
-    <a href="http://search.twitter.com/search?q=gitfr" style="float: right">See more tweets</a>
+    <a href="http://twitter.com/gitfr" style="float: right">Plus de tweets</a>
   </div>
   <div id="categories">
     <h2>Categories</h2>
