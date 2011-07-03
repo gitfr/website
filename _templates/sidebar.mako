@@ -1,7 +1,7 @@
 <div id="right_sidebar">
   <div id="rss">
     <h2>flux RSS</h2>
-    <a href="${bf.util.site_path_helper(bf.config.blog.path,'feed')}">billets</a>
+    <a href="http://feeds.feedburner.com/gitfr">billets</a>
     /
     % if bf.config.blog.disqus.enabled:
     <a href="http://${bf.config.blog.disqus.name}.disqus.com/latest.rss">commentaires</a>
