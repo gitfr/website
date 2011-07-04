@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2010/10/30 2:50:00
 title: Atelier #1 le 24/11/2010
+slug: atelier-1-le-24-11-2010
 ---
 
 Le premier atelier git (nommé donc #1 :) aura lieu le **24 Novembre 2010**, dans les locaux de _Xebia_. Les inscriptions sont déjá closes (50 inscrits), mais une session identique aura lieu le 30/11/2010 (billet à venir).

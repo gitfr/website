@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/6/13 1:57:00
 title: Git 1.7.5.1 publiée
+slug: git-1.7.5.1-publiee
 ---
 
 La première version de maintenance de la branche 1.7.5.x est sortie la 5 mai.

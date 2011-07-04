@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2010/12/4 23:39:00
 title: Retour sur les ateliers #1 et #2
+slug: retour-sur-les-ateliers-1-et-2
 ---
 
 Voila donc les ateliers #1 et #2 passés, il est donc temps de faire un point. A la base, c'est une simple envie de partager mon enthousiaste sur Git à quelques connaissances, et cela s'est transformé en présentation à **150** personnes. D'ailleurs, on m'a demandé d'en faire d'autres, vous risquez donc de me voir ici ou là en 2011 :).

@@ -2,6 +2,7 @@
 categories: github
 date: 2011/4/3 17:31:00
 title: GitHub, au centre de l'univers Git
+slug: github-au-centre-de-l-univers-git
 ---
 
 On me pose souvent cette question : « Git est il utilisé et quelle est la taille de sa communauté ? ». Ma réponse se résume souvent à donner [l'url de GitHub](http://www.github.com). Les chiffres parlent d'eux mêmes :

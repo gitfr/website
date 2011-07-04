@@ -1,7 +1,8 @@
 ---
 categories: gitfr, atelier
 date: 2011/4/7 16:05:00
-title: Info sur la présentation du 12/04
+itle: Info sur la présentation du 12/04
+slug: info-sur-la-presentation-du-12-04
 ---
 
 J'avais préparé mon billet à l'avance, histoire de le publier ce matin. Mais voila, le temps d'y penser, les **200 places étaient parties** ! Diantre, Git à vraiment la côte, on a battu le record de vitesse des inscriptions (moins de 4h). Pour la postérité, voici le billet initial :

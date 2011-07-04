@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/3/29 8:48:00
 title: Git 1.7.4.2 publiée
+slug: git-1.7.4.2-publiee
 ---
 
 La deuxième version de maintenance de la banche 1.7.4.x est sortie le 27 mars. Vous pouvez constater que le terme **upstream** (qui désigne la branche distante) remplace progressivement tous les anciens termes. Cela fait une suite à une constatation dans le manque de cohérence dans la terminologie employée (documentation et commande).

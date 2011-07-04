@@ -2,6 +2,7 @@
 categories: github
 date: 2011/3/27 10:42:00
 title: Les nouveautés 2011 sur GitHub
+slug: les-nouveautes-2011-sur-github
 ---
 
 Comme le dirait Domenech, "GitHub monte en puissance". Ce billet liste les fonctionnalités sorties depuis le début de l'année. Et au vu du nombre d'embauches (3 par mois depuis décembre 2010), cela devrait s'accélérer dans les prochains mois.

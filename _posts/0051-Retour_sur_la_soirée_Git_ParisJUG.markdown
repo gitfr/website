@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2011/4/23 5:36:00
 title: Retour sur la soirée Git ParisJUG
+slug: retour-sur-la-soiree-git-parisjug
 ---
 
 J'arrive vers 19h et des poussières, et je vois une file assez impressionnante de personnes qui attendent de rentrer. J'apprendrai plus tard que le système de réservation s'est gouré et n'a pas limité à 200 places comme d'habitude mais à... 300 ! L'équipe du ParisJUG s'est donc mis à la recherche d'un maximum de sièges (interdiction de rester dans le couloir ou par terre). Donc non seulement j'ai battu le record d'inscription (200 places parties en 3h, 120 personnes en liste d'attente), mais surement le nombre de personnes présentes à une conférence :). Signe que Git à le vent en poupe en France !

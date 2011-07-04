@@ -2,6 +2,7 @@
 categories: git, configuration
 date: 2010/11/4 2:37:00
 title: Eviter de commiter des fichiers indésirables
+slug: eviter-de-commiter-des-fichiers-indesirables
 ---
 
 Pour éviter d'historiser des fichiers qui ne nous intéresse pas, il est nécessaire de configurer le fichier `~./gitignore`. Bien évidemment, le contenu de ce fichier dépendra fortement du contexte (éditeur utilisé, langage, os...). Personnellement, mon fichier fait 30 lignes, je n'ai donc plus me soucier quand je fais un `git add .`, et je n'hésite pas à ajouter une exclusion dés que le besoin s'en fait sentir.

@@ -2,6 +2,7 @@
 categories: git, configuration
 date: 2010/11/6 4:15:00
 title: Améliorer sa productivité avec un beau shell
+slug: ameliorer-sa-productivite-avec-un-beau-shell
 ---
 
 Git est avant un outil qu'on utilise en **ligne de commande**. Mais par défaut, le shell ne vous indique pas grand chose de la part de Git, en fait rien du tout :). Il faut donc taper des commandes Git pour connaitre l'état de son dépôt. Au minimum :

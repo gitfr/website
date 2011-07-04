@@ -3,6 +3,7 @@ categories: git, outil
 tags: cgit
 date: 2011/4/3 15:16:00
 title: cgit, un frontal Web pour Git
+slug: cgit-un-frontal-web-pour-git
 ---
 
 Quand vous installez un dépôt Git sur votre serveur, il est toujours intéressant d'installer en plus un frontal Web. Cela vous permet notamment de naviguer dans votre dépôt sans avoir besoin de le cloner, de télécharger une version, ou tout simplement de connaitre l'état du dépôt.

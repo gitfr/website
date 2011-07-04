@@ -2,6 +2,7 @@
 categories: git
 date: 2011/4/13 16:14:00
 title: Comment écrire Git
+slug: comment-ecrire-git
 ---
 
 Comme je vois la faute assez souvent, je rappelle que l'on écrit **Git** ou **git** mais jamais GIT. Ce n'est pas un acronyme ou une abréviation. 

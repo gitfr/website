@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/2/12 14:16:00
 title: Git 1.7.4 publiée
+slug: git-1.7.4-publiee
 ---
 
 La version 1.7.4 est sortie le 31 janvier (oui je suis en retard), et n'apporte pas de changement majeur, mais principalement de nouvelles options ou corrections un peu partout dans Git.

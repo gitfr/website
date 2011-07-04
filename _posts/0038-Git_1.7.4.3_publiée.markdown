@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/4/3 14:45:00
 title: Git 1.7.4.3 publiée
+slug: git-1.7.4.3-publiee
 ---
 
 La troisière version de maintenance de la banche 1.7.4.x est sortie le 3 avril. A vos mises à jour ! :).

@@ -2,7 +2,7 @@
 categories: git, configuration
 date: 2010/11/4 2:37:00
 title: Taper plus vite avec la complétion
-
+slug: taper-plus-vite-avec-la-completion
 ---
 
 Le petit doigt de la main gauche est pour un **Unixien** un doigt important (bon, vous pouvez me rétorquer que *tous* les doigts sont importants) : c'est celui qu'on utilise pour taper sur la touche **tab**. Cette touche permet sous Unix de faire la **complétion**. Autrement dit, de compléter le nom d'une commande quand on tape le début de celle-ci. Non seulement une commande, mais aussi les sous commandes et options (par ex `--exclude` de la commande `diff`).

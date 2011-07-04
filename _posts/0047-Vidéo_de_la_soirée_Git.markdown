@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2011/4/22 14:08:00
 title: Vidéo de la soirée Git
+slug: video-de-la-soiree-git
 ---
 
 Bonne nouvelle si vous avez raté la soirée Git, les parties [théorique](http://www.parleys.com/#st=5&id=2366) et [pratique](http://www.parleys.com/#st=5&id=2368) sont disponibles sur le site **parleys.com**. La qualité semble bonne et je suis audible, mais ne supportant pas de me voir ou de m'entendre, ne m'en demandez pas plus :).

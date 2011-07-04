@@ -3,6 +3,7 @@ categories: git, outil
 tags: etckeeper
 date: 2010/12/5 1:05:00
 title: Historiser /etc avec etckeeper
+slug: historiser-etc-avec-etckeeper
 ---
 
 Pour illuster l'un des intérêts des *DVCS*, à savoir son coté **décentralisé**, ou plus éxactement le fait qu'il n'est pas obligatoire de disposer d'un dépôt central, voici un exemple concret. Nous pouvons historiser simplement un répertoire en tapant la commande :

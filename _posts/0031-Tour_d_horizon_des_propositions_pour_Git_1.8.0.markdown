@@ -2,6 +2,7 @@
 categories: git
 date: 2011/2/12 14:59:00
 title: Tour d'horizon des propositions pour Git 1.8.0
+slug: tour-d-horizon-des-propositions-pour-git-1.8.0
 ---
 
 Ca chauffe sur la **liste de diffusion** Git depuis la sortie de la 1.7.4 le mois dernier, car pas mal de propositions ont vu le jour pour la **1.8.0**. Ces sont facilement repérables avec le pattern *[1.8.0]* dans le sujet et sont décrites en 4 sections : proposition, histoire, risques et plan de migration. C'est un formalisme simple mais assez efficace.

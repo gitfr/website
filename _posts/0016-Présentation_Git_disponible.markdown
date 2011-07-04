@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2010/12/1 13:38:00
 title: Présentation Git disponible
+slug: presentation-Git-disponible
 ---
 
 Je viens de mettre la présentation des ateliers #1 et #2 sur *GitHub*. C'est une présentation faites avec [ShowOff](https://github.com/schacon/showoff), application développée par *Chacon* (encore lui), qui a l'énorme avantage de séparer contenu (simple fichier texte au format **Markdown**) et présentation (fichier CSS). Malheureusement il n'existe pas d'export PDF, il vous faut donc obligatoirement installer ShowOff sur votre machine pour visionner la présentation.

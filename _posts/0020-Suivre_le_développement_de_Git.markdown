@@ -2,6 +2,7 @@
 categories: git
 date: 2010/12/5 1:54:00
 title: Suivre le développement de Git
+slug: suivre-le-developpement-de-git
 ---
 
 Chaque série de patchs est mis dans une branche **topic**, c'est à dire une branche dédiée à un développement spécifique. Ce développement est ensuite fusionné (*mergé*) dans la branche **pu** (*proposed updates*), qui est une branche d'intégration. Aprés une ou plusieurs revues, si le code est beau et fonctionnel, il est de nouveau fusionné avec la branche **next**, qui représente la prochaine version stable, et eventuellement dans la branche **maint** qui représente la version stable en cours (dans le cas d'une correction de bugs). **master** quand à lui, ne récupère que des merge venant de **maint**.

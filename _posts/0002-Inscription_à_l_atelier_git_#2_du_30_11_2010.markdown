@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2010/10/30 3:39:00
 title: Inscription à l'atelier git #2 du 30/11/2010
+slug: inscription-a-l-atelier-git-2-du-30-11-2010
 ---
 
 L'inscription est **ouverte** pour l'atelier Git #2, puisque nous avons une salle ! Cette fois ci c'est **Valtech** qui prête :). Vous pouvez vous inscrire en suivant ce lien :

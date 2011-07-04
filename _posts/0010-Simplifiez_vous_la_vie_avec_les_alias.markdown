@@ -2,6 +2,7 @@
 categories: git, configuration
 date: 2010/11/4 3:33:00
 title: Simplifiez vous la vie avec les alias
+slug: simplifiez-vous-la-vie-avec-les-alias
 ---
 
 Git est un couteau Suisse, avec beaucoup de sous commandes et d'options. Il n'est pas rare de taper des lignes assez fastidieuses comme celle ci :

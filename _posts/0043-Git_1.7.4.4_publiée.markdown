@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/4/7 18:13:00
 title: Git 1.7.4.4 publiée
+slug: git-1.7.4.4-publiee
 ---
 
 La quatrième version de la branche 1.7.4.x vient de sortir (7/4/2011).

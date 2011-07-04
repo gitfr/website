@@ -2,6 +2,7 @@
 categories: git
 date: 2010/12/12 2:35:00
 title: Structure d'un dépôt Git
+slug: structure-d-un-depot-git
 ---
 
 Un dépôt Git se matérialise par la présence du répertoire `.git`. Il est unique, contrairement à *SVN* et *CVS* (et quel bonheur de ne plus avoir tous ces sous répertoires !), et se trouve à la racine du projet (`myproject/.git`). Dans le cas d'un dépôt partagé (dépôt *bare*), le contenu de ce sous répertoire se trouve directement dans le répertoire principal.

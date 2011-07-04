@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2011/5/18 13:25:00
 title: Atelier Git le 16/06 à Rennes
+slug: atelier-git-le-16-06-a-rennes
 ---
 
 Le [breizhcamp](http://www.breizhcamp.org/) est une journée conférence organisée le 17 juin par plusieurs communautés techniques de Rennes avec des sessions sur Java, Ruby, Android, etc. Je suis présent à cette conférence pour 2 sessions : la keynote, avec pour thème les communautés et une session sur le langage Python.

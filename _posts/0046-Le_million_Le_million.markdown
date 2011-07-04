@@ -2,6 +2,7 @@
 categories: github
 date: 2011/4/21 14:34:00
 title: Le million ! Le million !
+slug: le-million-le-million
 ---
 
 GitHub vient d’annoncer des chiffres impressionnants : 1.1 million de projets et 900 000 Gists. Et si vous êtes bon en calcul mental, vous savez donc que GitHub à dépassé les **2 millions de dépôts Git**. Mais plus intéressant, **70% des projets sont récents** (moins d'un an), ce qui fait environ 4500 nouveau projet par jour, pas mal ! Et d’après les estimations internes, le **million d'utilisateurs** sera atteint le 11 septembre 2011.

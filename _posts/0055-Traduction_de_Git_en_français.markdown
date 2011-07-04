@@ -2,7 +2,7 @@
 categories: git, gitfr, traduction
 date: 2011/4/25 13:30:00
 title: Traduction de Git en français
-
+slug: traduction-de-git-en-francais
 ---
 Apr 25th, 2011 1:30pm
 

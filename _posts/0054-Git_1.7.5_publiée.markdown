@@ -2,6 +2,7 @@
 categories: git, atelier
 date: 2011/4/25 4:10:00
 title: Git 1.7.5 publiée
+slug: git-1.7.5-publiee
 ---
 
 Nouvelle évolution de la banche 1.7.x avec cette 1.7.5.  Que pouvons nous dire sur cette nouvelle version qui contient plus de 500 commits de 70 contributeurs depuis la 1.7.4 ? Voici quelques changements intéressants à mes yeux :

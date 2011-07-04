@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/1/11 8:03:00
 title: Git 1.7.3.5 publiée
+slug: git-1.7.3.5-publiee
 ---
 
 La version 1.7.3.5 est sortie le 6 Janvier, et c'est surement la dernière version de la série 1.7.3.x (sauf bien évidemment gros bug ou faille de sécurité). Voici les changements :

@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/6/13 2:07:00
 title: Git 1.7.5.3 publiée
+slug: git-1.7.5.3-publiee
 ---
 
 La troisième version de maintenance de la branche 1.7.5.x est sortie le 27 mai.

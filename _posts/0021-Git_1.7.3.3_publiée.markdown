@@ -2,6 +2,7 @@
 categories: git, release
 date: 2010/12/8 15:48:00
 title: Git 1.7.3.3 publiée
+slug: git-1.7.3.3-publiee
 ---
 
 C'est une version qui ne contient que des corrections de bugs (plus le backport `add.ignoreErrors`). Voici le changelog : 

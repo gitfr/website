@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/2/12 14:24:00
 title: Git 1.7.4.1 publiée
+slug: git-1.7.4.1-publiee
 ---
 
 La première version de maintenance de la banche 1.7.4.x est sortie ce 12 février. Seulement 6 bugs corrigés mais suffisamment importants pour exiger une nouvelle release.

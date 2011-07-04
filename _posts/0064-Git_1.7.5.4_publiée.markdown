@@ -2,6 +2,7 @@
 categories: git, release
 date: 2011/6/13 2:10:00
 title: Git 1.7.5.4 publiée
+slug: git-1.7.5.4-publiee
 ---
 
 La quatrième version de la branche 1.7.5.x est sortie le 2 juin, soit seulement 5 jours aprés la précédente. C'est la dernière ligne du changelog qui nous donne la réponse.

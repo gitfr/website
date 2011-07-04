@@ -2,6 +2,7 @@
 categories: gitfr, atelier
 date: 2011/3/23 14:13:00
 title: Présentation Git le 12/04 à Paris
+slug: presentation-git-le-12-04-a-paris
 ---
 
 Aprés des vacances bien méritées, GitFR reprend son bâton de pèlerin pour présenter Git au [ParisJUG](http://www.parisjug.org/xwiki/bin/view/Meeting/20110412). Git est à l'honneur puisque c'est l'unique sujet de la soirée.

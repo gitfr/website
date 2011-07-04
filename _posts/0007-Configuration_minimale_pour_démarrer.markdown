@@ -2,6 +2,7 @@
 categories: git, configuration
 date: 2010/11/4 2:01:00
 title: Configuration minimale pour démarrer
+slug: configuration-minimale-pour-demarrer
 ---
 
 La configuration minimale se résume à donner son nom et son adresse email (pour indiquer qui est le "propriétaire" du commit) : 
