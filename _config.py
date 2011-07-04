@@ -19,7 +19,7 @@
 #  If you're hosting a blogofile powered site as a subdirectory of a larger
 #  non-blogofile site, then you would set the site_url to the full URL
 #  including that subdirectory: "http://www.yoursite.com/path/to/blogofile-dir"
-site.url = "http://blog.gitfr.net"
+site.url = "http://www.gitfr.net"
 
 #### Blog Settings ####
 blog = controllers.blog
@@ -137,9 +137,15 @@ blog.post_default_filters = {
 
 ### Pre/Post build hooks:
 def pre_build():
+    if os.path.isdir("_tmp"):
+        shutil.rmtree("_tmp")
+     os.mkdir("_tmp")
+
+    if os.path.isdir(os.path.join("_site",".git")):
+        shutil.move(os.path.join("_site",".git"),"_tmp")    
     #Do whatever you want before the _site is built
     pass
 def post_build():
+#    if os.path.isdir(os.path.join("_tmp",".git")):
+#        shutil.move(os.path.join("_tmp",".git"),"_site")    
     #Do whatever you want after the _site is built
-    pass
-
