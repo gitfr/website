@@ -136,16 +136,17 @@ blog.post_default_filters = {
 }
 
 ### Pre/Post build hooks:
+import os, shutil
 def pre_build():
     if os.path.isdir("_tmp"):
         shutil.rmtree("_tmp")
-     os.mkdir("_tmp")
+    os.mkdir("_tmp")
 
     if os.path.isdir(os.path.join("_site",".git")):
         shutil.move(os.path.join("_site",".git"),"_tmp")    
     #Do whatever you want before the _site is built
     pass
-def post_build():
+#def post_build():
 #    if os.path.isdir(os.path.join("_tmp",".git")):
 #        shutil.move(os.path.join("_tmp",".git"),"_site")    
     #Do whatever you want after the _site is built
