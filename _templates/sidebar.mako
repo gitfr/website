@@ -11,7 +11,7 @@
     <h2>Contact</h2>
     mail : seb@gitfr.net<br />
     liste de diffusion : <a href="http://groups.google.com/group/gitfr">gitfr</a><br />
-    IRC : #gitfr sur Freenode
+    IRC : #git-fr sur Freenode
   </div>
   <div id="blog_post_list">
     <h2>Derniers billets</h2>
