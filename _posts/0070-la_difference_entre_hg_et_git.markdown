@@ -1,8 +1,8 @@
 ---
 categories: git, hg
-date: 2011/08/18 00:40:00
+date: 2011/07/18 00:40:00
 title: La différence entre Hg et Git
-slugs: la-difference-entre-hg-et-git
+slug: la-difference-entre-hg-et-git
 ---
 
 J'aime beaucoup ce [billet](http://blog.daemon.com.au/blog-post/know-subversion-git-or-mercurial),

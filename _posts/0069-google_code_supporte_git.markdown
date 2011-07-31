@@ -1,6 +1,6 @@
 ---
 categories: git, google code, github
-date: 2011/08/17 18:35:00
+date: 2011/07/17 18:35:00
 title: Google Code supporte Git
 ---
 
