@@ -9,7 +9,7 @@ J'aime beaucoup ce [billet](http://blog.daemon.com.au/blog-post/know-subversion-
 il résume parfaitement à mes yeux la différence majeure entre Hg et Git quand
 on vient de SVN : il est possible d'utiliser Hg (Mercurial) comme un *SVN qui
 marche*, ce n'est pas du tout le cas avec Git car très vite, on se retrouve à
-faire des grosses bétises si on n'a pas compris les concepts importants.
+faire des grosses bêtises si on n'a pas compris les concepts importants.
 
 Hg, un SVN qui marche
 ----------------------
@@ -35,7 +35,7 @@ l'article :
 
 > For Hg, the instructor goes through the Hg primer with the student. The
 > student is then left to use Hg with the instructor watching. Every time
-> the student begins to think about branching or merging, the instructor his
+> the student begins to think about branching or merging, the instructor hits
 > the student over the head with the bat. This provides a negative
 > reinforcement for the student's SVN branching and merging habits.
 
@@ -47,7 +47,7 @@ branches (rebase, cherry-pick...).
 Git, un outil de gestion de contenu
 -----------------------------------
 
-C'est une notion importante à saisir, Git n'est **pas** un outil de getion de
+C'est une notion importante à saisir, Git n'est **pas** un outil de gestion de
 source (VCS). Comme avec n'importe quel outil de contenu, il est possible de
 modifier ou de supprimer ce que l'on veut : Git permet de **modifier
 l'historique**, ce qui n'est pas le cas d'un VCS, comme CVS, SVN ou Hg. De
@@ -56,7 +56,7 @@ sensiblement différente : une distinction entre *branche du DAG* et *branche
 utilisateur*.
 
 Une branche du **DAG** (*directed Acyclic Graph* ou *graphe orienté acyclique*)
-est manipulé par Git et permet de suivre les modifications du code : qui est
+est manipulée par Git et permet de suivre les modifications du code : qui est
 le descendant de qui ? Avec ce graphe, il est simple pour un DVCS de savoir
 quoi faire lors d'une opération comme une fusion (un merge). Mais chaque
 branche est **anonyme**, elle ne porte pas de nom. Les noms de branches
