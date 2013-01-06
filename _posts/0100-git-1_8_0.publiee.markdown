@@ -1,9 +1,11 @@
 ---
 categories: git, release
-date: 2012/12/14 21:43:00
+date: 2013/01/06 21:43:00
 title: Git 1.8.0 publiée
 slug: git-1.8.0-publiee
 ---
+
+**Note** : Git 1.8.0 est sortie le 22 octobre, désolé pour le retard.
 
 Changements intéressants:
  * la configuration upstream d'une branche évolue: --set-upstream est dépréciée,
@@ -36,10 +38,8 @@ Changements intéressants:
 N'hésitez pas comme d'habitude à commenter ce billet si vous voyez des
 changements intéressants.
 
-Updates since v1.7.12
----------------------
-
-UI, Workflows & Features
+Changelog
+---------
 
  * A credential helper for Win32 to allow access to the keychain of
    the logged-in user has been added.
@@ -94,16 +94,10 @@ UI, Workflows & Features
  * "git rebase -i" learned the "--edit-todo" option to open an editor
    to edit the instruction sheet.
 
-
-Foreign Interface
-
  * "git svn" has been updated to work with SVN 1.7.
 
  * "git p4" learned the "--conflicts" option to specify what to do when
    encountering a conflict during "p4 submit".
-
-
-Performance, Internal Implementation, etc.
 
  * Git ships with a fall-back regexp implementation for platforms with
    buggy regexp library, but it was easy for people to keep using their
@@ -143,17 +137,6 @@ Performance, Internal Implementation, etc.
 
  * Messages given by "git <subcommand> -h" from many subcommands have
    been marked for translation.
-
-
-Also contains minor documentation updates and code clean-ups.
-
-
-Fixes since v1.7.12
--------------------
-
-Unless otherwise noted, all the fixes since v1.7.12 in the
-maintenance track are contained in this release (see release notes
-to them for details).
 
  * The attribute system may be asked for a path that itself or its
    leading directories no longer exists in the working tree, and it is
