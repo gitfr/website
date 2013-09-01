@@ -1,5 +1,0 @@
-tig
-conf
-git flow
-workflow github
-
