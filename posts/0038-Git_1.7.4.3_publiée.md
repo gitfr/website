@@ -1,0 +1,37 @@
+<!-- 
+.. link: 
+.. description: 
+.. tags: git, release
+.. date: 2011/4/3 14:45:00
+.. title: Git 1.7.4.3 publiée
+.. slug: git-1.7.4.3-publiee
+-->
+
+La troisière version de maintenance de la banche 1.7.4.x est sortie le 3 avril. A vos mises à jour ! :).
+
+Le changelog :
+
+* "git apply" used to confuse lines updated by previous hunks as lines
+  that existed before when applying a hunk, contributing misapplication
+  of patches with offsets.
+
+* "git branch --track" (and "git checkout --track --branch") used to
+  allow setting up a random non-branch that does not make sense to follow
+  as the "upstream".  The command correctly diagnoses it as an error.
+
+* "git checkout $other_branch" silently removed untracked symbolic links
+  in the working tree that are in the way in order to check out paths
+  under it from the named branch.
+
+* "git cvsimport" did not bail out immediately when the cvs server cannot
+  be reached, spewing unnecessary error messages that complain about the
+  server response that it never got.
+
+* "git diff --quiet" did not work very well with the "--diff-filter"
+  option.
+
+* "git grep -n" lacked a long-hand synonym --line-number.
+
+* "git stash apply" reported the result of its operation by running
+  "git status" from the top-level of the working tree; it should (and
+  now does) run it from the user's working directory.
